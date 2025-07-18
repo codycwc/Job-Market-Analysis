@@ -27,5 +27,10 @@ This project collects, cleans, and analyzes job posting data from the Adzuna API
 - regex
 - collections
 
+---
+
+## Word Cloud
+![Sample Word Cloud](wordcloud.png)
+
 
 
